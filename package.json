@@ -1,0 +1,23 @@
+{
+  "name": "axios-tut",
+  "version": "1.0.0",
+  "description": "Axios tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beliot/axios_tut.git"
+  },
+  "keywords": [
+    "Axios",
+    "tutorial"
+  ],
+  "author": "Beliot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beliot/axios_tut/issues"
+  },
+  "homepage": "https://github.com/Beliot/axios_tut#readme"
+}
